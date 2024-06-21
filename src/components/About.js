@@ -119,10 +119,10 @@ export default function About(props) {
               </a>
               <br />
               <strong>GitHub:</strong>{" "}
-              <a href='https://github.com/kshitij'>github.com/kshitij</a>
+              <a href='https://github.com/Kshitijkr31'>github.com/kshitij</a>
               <br />
               <strong>LinkedIn:</strong>{" "}
-              <a href='https://linkedin.com/in/kshitij'>
+              <a href='www.linkedin.com/in/kshitij-kumar-81b699204'>
                 linkedin.com/in/kshitij
               </a>
             </div>
